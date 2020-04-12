@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Kitchen</string>
+    <string name="search">Search</string>
+    <string name="text_food_view">Use keywords to search and cook delicious with us.</string>
+    <string name="todo">TODO</string>
+ 
+</resources>
